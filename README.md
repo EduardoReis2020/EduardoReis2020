@@ -1,10 +1,6 @@
 # 👋 Olá! Eu sou Eduardo dos Reis Souza
 
-<p align="center">
- <img src="https://github.com/EduardoReis2020.png" width="150" height="150" style="border-radius:50%">
-</p>
-
-Sou **Bacharel em Engenharia de Computação** pelo [IFPB - Campina Grande](https://www.ifpb.edu.br/campinagrande), atualmente atuo como **Desenvolvedor de Software** no [INSA - Campina Grande](https://www.insa.gov.br/). Sou apaixonado por tecnologia, desenvolvimento de software e sempre estou em busca de novos conhecimentos!
+Sou **graduado em Engenharia de Computação** pelo [IFPB - Campina Grande](https://www.ifpb.edu.br/campinagrande), atualmente atuo como **Desenvolvedor de Software** no [INSA - Campina Grande](https://www.insa.gov.br/). Sou apaixonado por tecnologia, desenvolvimento de software e sempre estou em busca de novos conhecimentos!
 
 ---
 
