@@ -1,13 +1,13 @@
 # 👋 Olá! Eu sou Eduardo dos Reis Souza
 
-Sou **graduado em Engenharia de Computação** pelo [IFPB - Campina Grande](https://www.ifpb.edu.br/campinagrande), atualmente atuo como pesquisador no [INSA - Campina Grande](https://www.gov.br/insa/pt-br), desenvolvendo soluções de software. Sou apaixonado por tecnologia, desenvolvimento de software e sempre estou em busca de novos conhecimentos!
+Sou **graduado em Engenharia de Computação** pelo [IFPB - Campina Grande](https://www.ifpb.edu.br/campinagrande), atualmente pesquisador no [INSA - Campina Grande](https://www.gov.br/insa/pt-br), desenvolvendo soluções de software. Sou apaixonado por tecnologia, desenvolvimento de software e sempre estou em busca de novos conhecimentos!
 
 ---
 
 ## 📜 Sobre Mim
 
 - 🎓 Formação: Engenharia de Computação
-- 🏢 Trabalhando atualmente no INSA-CG
+- 🏢 Em busca de oportunidades
 - 💼 Busco aprimorar minhas habilidades em desenvolvimento de software e metodologias ágeis.
 - 💬 Gosto de colaborar e aprender com a equipe, sou comunicativo e proativo.
 - 📈 Metodologia: Agile Scrum 
